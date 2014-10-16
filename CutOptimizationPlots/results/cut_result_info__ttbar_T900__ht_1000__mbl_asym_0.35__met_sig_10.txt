@@ -1,0 +1,3 @@
+Background: 3.63
+Signal: 6.05
+S/#sqrt{S+B}: 1.94
