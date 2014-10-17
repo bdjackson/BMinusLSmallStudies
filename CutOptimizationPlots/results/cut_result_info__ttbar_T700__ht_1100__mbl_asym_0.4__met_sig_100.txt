@@ -1,0 +1,4 @@
+Background: 1.40
+Signal: 36.19
+S/#sqrt{S+B}: 5.90
+Zn: 10.38

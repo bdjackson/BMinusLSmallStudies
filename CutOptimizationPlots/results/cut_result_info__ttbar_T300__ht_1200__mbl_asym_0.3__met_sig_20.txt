@@ -1,3 +1,4 @@
 Background: 0.60
 Signal: 134.63
 S/#sqrt{S+B}: 11.58
+Zn: 25.80
